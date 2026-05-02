@@ -18,7 +18,4 @@ public class Gateway {
 	public String btn(@PathVariable("str") String str) {
 		return str+" This was your passing parameter";
 	}
-	
-	
-	
 }
