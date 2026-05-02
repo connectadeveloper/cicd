@@ -19,6 +19,6 @@ public class Gateway {
 		return str+" This was your passing parameter";
 	}
 	
-	// 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
+	
 	
 }
