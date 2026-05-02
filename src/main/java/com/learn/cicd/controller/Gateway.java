@@ -16,7 +16,9 @@ public class Gateway {
 	
 	@GetMapping("/btn/{str}")
 	public String btn(@PathVariable("str") String str) {
-		return str+" Welcome to CICD application learning";
+		return str+" This was your passing parameter";
 	}
+	
+	// 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
 	
 }
